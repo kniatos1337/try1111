@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">SignUp Login Firebase</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_an_user_login"><u>Already an user? Login.</u></string>
+    <string name="register_with_us_today">Register with us, today!</string>
+    <string name="login">Login</string>
+    <string name="not_yet_registered_sign_up"><u>Not yet registered? Sign Up.</u></string>
+    <string name="login_title">Welcome back!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logo">Logo</string>
+    <string name="invis_spacing">invis spacing</string>
+    <string name="welcome_to_haleth">Welcome to HALETH!</string>
+
+
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="alarm_name">Alarm Name</string>
+    <string name="add_new_alarm">Add New Alarm</string>
+    <string name="create_new_alarm">Create New Alarm</string>
+
+    <string name="recipeName">Recipe Name</string>
+    <string name="ingredients">Ingredients</string>
+
+
+    <string-array name="alarminput">
+        <item>7:00 AM \nAlarm 1</item>
+        <item>7:30 AM \nAlarm 2</item>
+        <item>8:00 AM \nAlarm 3</item>
+        <item>8:30 AM \nAlarm 4</item>
+        <item>9:00 AM \nAlarm 5</item>
+        <item>9:30 AM \nAlarm 6</item>
+        <item>10:00 AM \nAlarm 7</item>
+        <item>10:30 PM \nNEW ALARM</item>
+    </string-array>
+    <string name="title_activity_cardview">cardview</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
